@@ -1,6 +1,6 @@
 # Oslina 2.0
 ____
-
+## Commands:
 - /start ; /help - список команд
 - /chat - ссылка на чат
 - /future - предсказание
