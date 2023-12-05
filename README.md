@@ -18,15 +18,15 @@ This Telegram bot is designed to moderating a telegramm chat. It can perform [sp
     ```
 
 ## Usage
-Run the bot with the command:
-node index.js
-
-markdown
-Copy code
+Run the bot with the file:
+main.py
 
 ## Commands
 - `/start` - Start interacting with the bot.
 - `/help` - Get help and list of commands.
 
-## Features
-- [Specify unique features or interesting functionalities of the bot].
+## License
+
+Distributed under the GNU GENERAL PUBLIC LICENSE. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
