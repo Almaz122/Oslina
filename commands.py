@@ -1,5 +1,5 @@
 akinator_list = ["Однозначно - да", "Скорее всего", "хз", "Скорее - нет", "Однозначно - нет"]
-token = '6543916116:AAHZtmmCi0h8W3qprT4rHZ5Rl-4gdwLyaR4'
+token = 'ОСЛИНУ НЕ СПИЗДИШЬ'
 count = "counter.txt"
 
 
