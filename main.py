@@ -10,7 +10,7 @@ import meme
 # Включаем логирование, чтобы не пропустить важные сообщения
 logging.basicConfig(level=logging.INFO)
 # Объект бота
-bot = Bot(token="6543916116:AAHZtmmCi0h8W3qprT4rHZ5Rl-4gdwLyaR4")
+bot = Bot(token="")
 # Диспетчер
 dp = Dispatcher()
 
