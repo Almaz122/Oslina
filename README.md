@@ -6,7 +6,7 @@ This Telegram bot is designed to moderating a telegramm chat and fun. It can per
 ## Installation
 1. Clone the repository:
     ```
-    git clone [https://github.com/Almaz122/Oslina.git]
+    git clone https://github.com/Almaz122/Oslina.git
     ```
 2. Install dependencies:
     ```
@@ -14,7 +14,7 @@ This Telegram bot is designed to moderating a telegramm chat and fun. It can per
     ```
 3. Provide your bot token in `main.py`:
     ```
-    BOT_TOKEN=your_token
+    bot = Bot(token="your_token")
     ```
 
 ## Usage
