@@ -1,18 +1,18 @@
 # Oslina 2.0
 
 ## Description
-This Telegram bot is designed to moderating a telegramm chat. It can perform commands, as well as provide [interesting features].
+This Telegram bot is designed to moderating a telegramm chat and fun. It can perform interesting commands.
 
 ## Installation
 1. Clone the repository:
     ```
-    git clone https://github.com/username/repo.git
+    git clone [https://github.com/Almaz122/Oslina.git]
     ```
 2. Install dependencies:
     ```
     npm install
     ```
-3. Create a `.env` file and provide your bot token:
+3. Provide your bot token in `main.py`:
     ```
     BOT_TOKEN=your_token
     ```
