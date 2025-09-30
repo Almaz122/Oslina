@@ -1,4 +1,4 @@
-# Oslina 2.0
+# Oslina
 
 ## Description
 This Telegram bot is designed to moderating a telegramm chat. It can perform [specify functions, commands], as well as provide [interesting features].
